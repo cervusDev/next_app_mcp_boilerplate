@@ -1,0 +1,1 @@
+Este diretório irá conter arquivos de tipagem globais

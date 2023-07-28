@@ -1,0 +1,1 @@
+Este diretório contem arquivos com funções uteis para a aplicação
